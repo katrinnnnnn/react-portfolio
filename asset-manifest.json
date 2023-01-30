@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.fe269951.css",
-    "main.js": "/react-portfolio/static/js/main.a0442d43.js",
+    "main.css": "/react-portfolio/static/css/main.27e1dee5.css",
+    "main.js": "/react-portfolio/static/js/main.54dc90ce.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/nft.jpg": "/react-portfolio/static/media/nft.175e630b5dba361226e0.jpg",
     "static/media/sushi.jpg": "/react-portfolio/static/media/sushi.f65687a568264591d087.jpg",
@@ -9,17 +9,16 @@
     "static/media/sun.svg": "/react-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/react-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/react-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/react-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "static/media/instagram.svg": "/react-portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
     "static/media/vk.svg": "/react-portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
     "static/media/twitter.svg": "/react-portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.fe269951.css.map": "/react-portfolio/static/css/main.fe269951.css.map",
-    "main.a0442d43.js.map": "/react-portfolio/static/js/main.a0442d43.js.map",
+    "main.27e1dee5.css.map": "/react-portfolio/static/css/main.27e1dee5.css.map",
+    "main.54dc90ce.js.map": "/react-portfolio/static/js/main.54dc90ce.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe269951.css",
-    "static/js/main.a0442d43.js"
+    "static/css/main.27e1dee5.css",
+    "static/js/main.54dc90ce.js"
   ]
 }
